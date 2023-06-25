@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6396d241-a52b-40fb-a1aa-bb16ffe2cab0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/plugins/unpkg-path-plugin.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/plugins/unpkg-path-plugin.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +58,7 @@
       <workItem from="1687629505935" duration="1330000" />
       <workItem from="1687682519434" duration="66000" />
       <workItem from="1687682660545" duration="5892000" />
-      <workItem from="1687715649214" duration="2668000" />
+      <workItem from="1687715649214" duration="3213000" />
     </task>
     <servers />
   </component>
