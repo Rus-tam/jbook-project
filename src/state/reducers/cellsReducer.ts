@@ -1,3 +1,4 @@
+import { produce } from "immer";
 import { ActionTypes } from "../action-types";
 import { Action } from "../actions";
 import { Cell } from "../cell";
@@ -18,23 +19,13 @@ const initialState: CellState = {
   data: {},
 };
 
-const reducer = (
-  state: CellState = initialState,
-  action: Action
-): CellState => {
+const reducer = produce((state: CellState = initialState, action: Action) => {
   switch (action.type) {
     case ActionTypes.UPDATE_CELL:
       const { id, content } = action.payload;
-      return {
-        ...state,
-        data: {
-          ...state.data,
-          [id]: {
-            ...state.data[id],
-            content,
-          },
-        },
-      };
+
+      state.data[id].content = content;
+      return;
     case ActionTypes.DELETE_CELL:
       return state;
     case ActionTypes.MOVE_CELL:
@@ -44,6 +35,6 @@ const reducer = (
     default:
       return state;
   }
-};
+});
 
 export default reducer;
