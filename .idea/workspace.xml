@@ -5,11 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6396d241-a52b-40fb-a1aa-bb16ffe2cab0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/cell-list-item.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/cell-list.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/state/actions/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/state/actions/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/state/reducers/bundlesReducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/state/reducers/bundlesReducer.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/state/reducers/cellsReducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/state/reducers/cellsReducer.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/state/store.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/state/store.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +24,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="TypeScript JSX File" />
         <option value="TypeScript File" />
+        <option value="TypeScript JSX File" />
       </list>
     </option>
   </component>
@@ -91,7 +95,8 @@
       <workItem from="1688639761003" duration="5139000" />
       <workItem from="1688710899147" duration="9105000" />
       <workItem from="1688835078899" duration="3653000" />
-      <workItem from="1688883944468" duration="3034000" />
+      <workItem from="1688883944468" duration="3096000" />
+      <workItem from="1688964631891" duration="3335000" />
     </task>
     <servers />
   </component>
