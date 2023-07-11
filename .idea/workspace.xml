@@ -9,7 +9,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/add-cell.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/add-cell.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/add-cell.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/add-cell.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/state/reducers/cellsReducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/state/reducers/cellsReducer.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/cell-list.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/cell-list.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +96,7 @@
       <workItem from="1688883944468" duration="3096000" />
       <workItem from="1688964631891" duration="12337000" />
       <workItem from="1688988790973" duration="875000" />
-      <workItem from="1689051264399" duration="4592000" />
+      <workItem from="1689051264399" duration="5512000" />
     </task>
     <servers />
   </component>
